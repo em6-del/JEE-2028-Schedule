@@ -1,0 +1,6 @@
+{
+  "name": "JEE 2028 Study Planner & Schedule Tracker (Grade 11)",
+  "description": "Customizable daily study schedule, slot timing manager, goal setting, and study reminders tailored for Grade 11 students targeting JEE 2028.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
